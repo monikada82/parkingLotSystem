@@ -1,9 +1,7 @@
-# 🚗 Parking Lot System (Java OOP Project)
+#  Parking Lot System (Java OOP Project)
 
 A beginner-friendly **Low-Level Design (LLD)** project implemented in **Java** using clean **Object-Oriented Programming** principles.  
 This project simulates a multi-level parking lot that supports different types of vehicles and parking slot sizes.
-
----
 
 ##  Features:
 
@@ -24,8 +22,6 @@ This project simulates a multi-level parking lot that supports different types o
 - Ticket generation with timestamp  
 - Parking status display  
 - Simple & clean OOP design  
-
----
 
 ##  Low-Level Design (LLD) Concepts Used
 
